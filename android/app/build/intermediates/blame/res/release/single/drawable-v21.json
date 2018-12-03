@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/598898c8618775996cabb79e3099f253/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/598898c8618775996cabb79e3099f253/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/item_background.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/ee3bc0b270578678f7e4df7681aa36b9/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/598898c8618775996cabb79e3099f253/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/598898c8618775996cabb79e3099f253/res/drawable-v21/design_password_eye.xml"
+    }
+]

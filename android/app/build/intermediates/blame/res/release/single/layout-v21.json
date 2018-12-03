@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/ee3bc0b270578678f7e4df7681aa36b9/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/ee3bc0b270578678f7e4df7681aa36b9/res/layout-v21/bottom_navigation_item.xml"
+    }
+]

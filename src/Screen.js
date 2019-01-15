@@ -16,6 +16,7 @@ const NavigationSpecific = {
 };
 
 const lastScreen = {screen: undefined};
+const lastModal = {screen: undefined};
 class Navigator {
   constructor(navigatorID, navigatorEventID, screenInstanceID) {
     this.navigatorID = navigatorID;
@@ -29,6 +30,15 @@ class Navigator {
   isSameScreen(params) {
     if (params.screen != lastScreen.screen) {
       lastScreen = {screen: params.screen}
+      return false;
+    } else {
+      return true;
+    }
+  }
+
+  isSameModal(params){
+    if (params.screen != lastModal.screen) {
+      lastModal = {screen: params.screen}
       return false;
     } else {
       return true;
@@ -55,6 +65,9 @@ class Navigator {
   }
 
   showModal(params = {}) {
+    if(this.isSameModal({screen: params.screen})) {
+      return;
+    }
     return Navigation.showModal(params);
   }
 
@@ -62,7 +75,13 @@ class Navigator {
     return Navigation.showLightBox(params);
   }
 
-  dismissModal(params = {}) {
+  dismissModal(params = {}, callback) {
+    if(callback){
+      const timeout = setTimeout(() => {
+        callback()
+        clearTimeout(timeout)
+      }, 300);
+    }
     return Navigation.dismissModal(params);
   }
 
@@ -238,6 +257,7 @@ class Screen extends Component {
   componentWillUnmount() {
     if (this.navigator) {
       lastScreen = {screen: undefined}
+      lastModal = {screen: undefined}
       this.navigator.cleanup();
       this.navigator = undefined;
     }

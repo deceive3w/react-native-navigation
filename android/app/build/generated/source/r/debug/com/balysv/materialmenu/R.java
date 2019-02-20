@@ -8,18 +8,18 @@ package com.balysv.materialmenu;
 
 public final class R {
     public static final class attr {
-        public static int mm_color = 0x7f0400c1;
-        public static int mm_rtlEnabled = 0x7f0400c2;
-        public static int mm_scale = 0x7f0400c3;
-        public static int mm_strokeWidth = 0x7f0400c4;
-        public static int mm_transformDuration = 0x7f0400c5;
-        public static int mm_visible = 0x7f0400c6;
+        public static int mm_color = 0x7f0400dd;
+        public static int mm_rtlEnabled = 0x7f0400de;
+        public static int mm_scale = 0x7f0400df;
+        public static int mm_strokeWidth = 0x7f0400e0;
+        public static int mm_transformDuration = 0x7f0400e1;
+        public static int mm_visible = 0x7f0400e2;
     }
     public static final class dimen {
-        public static int mm_up_arrow_margin = 0x7f0800a6;
+        public static int mm_up_arrow_margin = 0x7f0800af;
     }
     public static final class styleable {
-        public static int[] MaterialMenuView = { 0x7f0400c1, 0x7f0400c2, 0x7f0400c3, 0x7f0400c4, 0x7f0400c5, 0x7f0400c6 };
+        public static int[] MaterialMenuView = { 0x7f0400dd, 0x7f0400de, 0x7f0400df, 0x7f0400e0, 0x7f0400e1, 0x7f0400e2 };
         public static int MaterialMenuView_mm_color = 0;
         public static int MaterialMenuView_mm_rtlEnabled = 1;
         public static int MaterialMenuView_mm_scale = 2;

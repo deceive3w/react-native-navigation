@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v11/notification_media_action.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/rekeningku/Documents/Projects/Repositories/new-rn-apollo/node_modules/react-native-navigation/android/app/build/intermediates/res/merged/release/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/rekeningku/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/79f541231ff6b7393022205ec97a9bf8/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]
